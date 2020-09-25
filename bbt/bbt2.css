@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-size: 60pt;
+    background-color: peru;
+}
+
+a:hover {
+    font-family: 'Courier New', Courier, monospace;
+    border-color: lightgoldenrodyellow;
+    border-style: solid;
+  }
+
+h1:hover {
+    background-color: lightpink;
+    transform: translateX(1000px);
+    transition: ease-in;
+}

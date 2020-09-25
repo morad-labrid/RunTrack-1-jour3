@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-image: url(https://www.ecoledujournalisme.com/edj-news/wp-content/uploads/2017/02/web-designer-pune-background.jpg);
+    background-size: cover;
+}
+
+a:hover {
+    font-size: 80pt;
+    background-image: url(https://img-4.linternaute.com/2-bq_vl3Ln9g45ta7lvu7Wi_sso=/1240x/smart/cdfd3d556eb84467a61ddf128b1cd5fd/ccmcms-linternaute/2245027.jpg);
+    background-size: cover;
+  }
